@@ -4,7 +4,7 @@ const RESTAURANT = {
   logoImg: "Dawn.png",
   nameFont: "Bebas Neue",
   tagline: "BBQ & Grills • Est. 1971",
-  whatsapp: "923000000000",
+  whatsapp: "923327120000",
   address: "",
   currency: "Rs",
   poweredBy: "Qalbi Studio",
